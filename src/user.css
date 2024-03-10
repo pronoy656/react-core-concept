@@ -1,0 +1,15 @@
+.userbox{
+    border: 2px solid rosybrown;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.single{
+    border: 2px solid rgb(222, 21, 21);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
